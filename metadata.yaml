@@ -1,5 +1,8 @@
 _repo: Harper-s-Household-Handbook-A-guide-to-easy-ways-of-doing-woman-s-work_65120
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65120-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -10,6 +13,8 @@ creator:
     - https://en.wikipedia.org/wiki/Anonymous_work
     - http://www.gutenberg.org/ebooks/author/49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65120#Harper-s-Household-Handbook-A-guide-to-easy-ways-of-doing-woman-s-work
 gutenberg_issued: '2021-04-20'
 gutenberg_type: Text
 identifiers:
